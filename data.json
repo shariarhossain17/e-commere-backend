@@ -1,0 +1,92 @@
+[
+  {
+    "name": "woo ninza",
+    "price": "35",
+    "img": "https://i.ibb.co/stgXntV/images.jpg",
+    "category": "Hoddies",
+    "color": "red",
+    "size": "xl",
+    "stock": "in-stock",
+    "quantity": "60"
+  },
+  {
+    "name": "woo logo",
+    "price": "40",
+    "img": "https://i.ibb.co/NZcpfjf/hmgoepprod.webp",
+    "category": "Hoddies",
+    "color": "black",
+    "size": "l",
+    "stock": "in-stock",
+    "quantity": "100"
+  },
+  {
+    "name": "woo blue",
+    "price": "27",
+    "img": "https://i.ibb.co/2S9q234/download.jpg",
+    "category": "Hoddies",
+    "color": "blue",
+    "size": "m",
+    "stock": "in-stock",
+    "quantity": "50"
+  },
+  {
+    "name": "pink huddi",
+    "price": "25",
+    "img": "https://i.ibb.co/g6sGrRp/images-1.jpg",
+    "category": "Hoddies",
+    "color": "pink",
+    "size": "xl",
+    "stock": "in-stock",
+    "quantity": "200"
+  },
+  {
+    "name": "navy blue huddi",
+    "price": "40",
+    "img": "https://i.ibb.co/M8rTqtN/istockphoto-1319572197-612x612.jpg",
+    "category": "Hoddies",
+    "color": "navy blue",
+    "size": "m",
+    "stock": "in-stock",
+    "quantity": "300"
+  },
+  {
+    "name": "white huddi",
+    "price": "50",
+    "img": "https://i.ibb.co/why9mxD/download-2.jpg",
+    "category": "Hoddies",
+    "color": "blue",
+    "size": "l",
+    "stock": "in-stock",
+    "quantity": "300"
+  },
+  {
+    "name": "red t-shirt",
+    "price": "15",
+    "img": "https://i.ibb.co/D50kDsP/istockphoto-1354031012-612x612.jpg",
+    "category": "T-shirt",
+    "color": "red",
+    "size": "xl",
+    "stock": "in-stock",
+    "quantity": "300"
+  },
+  {
+    "name": "blue t-shirt",
+    "price": "15",
+    "img": "https://i.ibb.co/wKPgN6V/images-2.jpg",
+    "category": "T-shirt",
+    "color": "red",
+    "size": "l",
+    "stock": "in-stock",
+    "quantity": "300"
+  },
+  {
+    "name": "green t-shirt",
+    "price": "15",
+    "img": "https://i.ibb.co/qL8Wzvp/istockphoto-922855190-612x612.jpg",
+    "category": "T-shirt",
+    "color": "green",
+    "size": "m",
+    "stock": "in-stock",
+    "quantity": "300"
+  }
+]
